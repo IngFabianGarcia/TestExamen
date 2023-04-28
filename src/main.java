@@ -16,8 +16,7 @@ import vista.frmPrincipal;
  * @author umg
  */
 public class main {
-    
-
+  
     /**
      * @param args the command line arguments
      */
